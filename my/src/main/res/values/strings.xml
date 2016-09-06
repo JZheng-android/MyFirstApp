@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="config">所有的键盘快捷键都可以在config中找到。</string>
+</resources>
